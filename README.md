@@ -50,6 +50,6 @@ Connect with me for professional inquiries, collaboration opportunities, or any 
 
 - **Email:** durgearyan9@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/aryan-durge-14893824b/
-- **Personal Website:** [Link to your personal website, if applicable]
+- **Personal Website:** https://aryandurge.netlify.app/
 
 Thank you for visiting my resume website! Feel free to explore and learn more about my professional journey.
