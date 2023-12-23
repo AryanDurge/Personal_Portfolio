@@ -1,0 +1,470 @@
+@media screen and (min-width:1440px) {
+    .container{
+        max-width:1440px;
+    }
+
+    /* PROFILE */
+
+    #profile{
+        padding-top:0px;
+    }
+
+    /* ABOUT */
+
+    #about{
+        padding-top: 10%;
+    }
+
+    .section-container{
+        display: flex;
+        justify-content: space-evenly;
+        margin:0 auto;
+        height:30rem;
+        width:55%;
+    }
+
+    .about-details-container{
+        width:40%;
+    }
+
+    /* EXPERIENCE */
+
+    #experience{
+        padding-top:20vh;
+    }
+
+    /* PROJECTS */
+
+    .detailed-container{
+        margin:auto;
+        border:2px solid rgb(91, 87, 87);
+        border-radius:2.5rem;
+        padding:1rem;
+    }
+
+    .articles-container{
+        display: flex;
+        justify-content: center;
+    }
+
+    .articles-container img{
+        padding:0 auto;
+        border-radius:2rem;
+        width:70%;
+        height:70%;
+    }
+
+    /* PROJECTS */
+
+    #project{
+        padding-top:15vh;
+    }
+}
+
+/* 2ND */
+
+@media screen and (min-width:1020px) {
+    .container{
+        max-width:1020px;
+    }
+
+    .section-container{
+        height:25rem;
+        display: flex;
+        justify-content: start; 
+    }
+
+    /* EXPERIENCE */
+
+    .detailed-container{
+        margin:auto;
+        border:2px solid rgb(91, 87, 87);
+        border-radius:2.5rem;
+        padding:1rem;
+    }
+
+    .articles-container{
+        display: flex;
+        justify-content: center;
+    }
+
+    .articles-container img{
+        padding:0 auto;
+        border-radius:2rem;
+        width:70%;
+        height:70%;
+    }
+}
+
+/* 3RD */
+
+@media screen and (min-width:768px) {
+    
+    .container{
+        max-width:768px;
+    }
+
+    /* About */
+
+    .details-container{
+        height:8rem;
+        width:10rem;
+    } 
+
+    .section-container{
+        height:35rem;
+        display:flex;
+        justify-content: start; 
+    }
+
+    .section_pic-container img{
+        height:20rem;
+        width:20rem;
+    }
+
+    /* PROJECTS */
+
+    .detailed-container img{
+        height:12rem;
+        width:12rem;
+    }
+
+    .articles-container{
+        display: flex;
+        justify-content: center;
+    }
+}
+
+/* 3RD MAX*/
+
+@media screen and (max-width:767px) {
+    
+    /* DESKTOP NAV */
+
+    #desktop-nav{
+        display:none;
+    }
+    
+    #hamburger-nav{
+        display: block;
+    }
+
+    .setHam{
+        margin-top: 5%;;
+        display:flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+
+    /* home */
+
+    .section-img{
+        width:10rem;
+        height:2rem;
+    }
+
+    .section__text{
+        margin:auto 0;
+    }
+
+    .section_pic-container img{
+        margin:auto 0;
+        display:flex;
+        justify-content: center;
+        height:12rem;
+        width:20rem;
+    }
+
+    .section-container{
+        display: flex;
+        justify-content: space-around;
+        gap:4rem;
+        height:60%;
+    }
+
+    .details-container{
+        height:8rem;
+        width:13rem;
+    }
+
+    .about-details-container{
+        display: flex;  
+        justify-content: space-around;
+        /* align-items: center; */
+    }
+
+    .section_pic-container img{
+        width:22rem;
+        height:22rem;
+    }
+
+    .text-container p{
+        text-overflow:ellipsis;
+        /* width:50%; */
+    }
+
+    .about-containers{
+        margin:0rem;
+    }
+
+    .detail-container{
+        width:40vw;
+        height:60vh;
+    }
+    
+
+    /* About section */
+
+    #about{
+        padding-top:6rem;
+    }
+
+    .title{
+        margin-bottom:2rem;
+    }
+
+    .section-container{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .section_pic-container img{
+        margin-top:5rem;
+        height:20rem;
+        width:20rem;
+    }
+
+    .about-details-container{
+        width:90%;
+        margin:2rem;
+    }
+    
+    /* PROJECTS */
+
+
+    #project{
+        height:30rem;
+    }
+
+    .experience-details-container{
+        height:12rem;
+        width:13rem;
+    }
+
+    .articles-container{
+        display: flex;
+        justify-content: center;
+    }
+
+    .experience-sub-title{
+        margin-top:2rem;
+    }
+
+    .Sm-arrow{
+        padding-top:8rem;
+    }
+}
+
+/* 4TH */
+
+@media screen and (max-width:400px){
+
+    /* PROFILE */
+
+    #profile{
+        position: relative;
+        left:2rem;
+        display:flex;
+        flex-direction:column;
+        padding-top:10rem;
+    }
+
+    .section_pic img{
+        height:16rem;
+        width:16rem;
+        margin-right: 15.688rem;
+        margin-top: 6.563rem;
+    }
+
+    .section-img{
+        margin-right: 15.688rem;
+        margin-top: 6.563rem;
+    }
+
+
+    /* ABOUT*/
+
+    #about{
+        position: relative;
+        left:2rem;
+        margin-top:5rem;
+        height:75rem;
+    }
+
+    .sectionText{
+        width:40vw;
+        position:relative;
+        right:2rem;
+    }
+
+    .Title{
+        position: relative;
+        right:1.2rem;
+        text-wrap:wrap;
+    }
+
+    .About{
+        display:flex;
+        flex-direction: column;
+    }
+
+    .section_picCont img{
+        height:19rem;
+        width:19rem;
+    }
+
+    .about-pic{
+        margin-top:1.2rem;
+    }
+
+    .about-containers{
+        display: flex;
+        justify-content: center;
+    }
+
+    .details-container{
+        padding:0.5rem 1.2rem;
+    }
+
+    .text-container{
+        padding-right: 9rem;
+    }
+
+    .text-container p{
+        position: relative;
+        top:2rem;
+        right:7.4rem;
+        word-wrap: break-word;
+        width:80vw;
+        text-overflow: hidden;
+    } 
+
+
+
+    /* EXPERIENCE */
+
+    #experience{
+        position: relative;
+        left:2rem;
+    }
+
+    .Title2{
+        position: relative;
+        right:3.5rem;
+    }
+
+    .detail-container{
+        height:40rem;
+    }
+
+
+    /* PROJECTS */
+
+
+    #project{
+        position: relative;
+        left:2rem;
+        height:80rem;
+    }
+
+    .Set{
+        display: block;
+    }
+
+    .SetText{
+        position: relative;
+        right:0.7rem;
+    }
+
+    .Title3{
+        position: relative;
+        right:2.5rem;
+    }
+
+    .experience-details-container{
+        flex-wrap: wrap;
+        margin-bottom:9rem;
+    }
+
+    .About1{
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        right:4.5rem;
+    }
+
+    .Sm-arrow{
+        position: relative;
+        bottom:5rem;
+    }
+
+    .btn{
+        width:2rem;
+        height:2rem;
+    } 
+
+
+    /* EXPERIENCE */
+
+    .detail-container{
+        width:70%;
+    }
+
+    /* CONTACT */
+
+    #contact{
+        margin-top:2rem;
+    }
+
+    .contact-info-upper-container{
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        right:4rem;
+        width:10vw;
+        border:1.5px solid rgb(85,85,85);
+        height:10rem;
+        width:20rem;
+        margin:0;
+    }
+
+    .Title3{
+        width:5rem;
+        text-align: center;
+        position: relative;
+        right:2rem;
+    }
+
+    .ContactInfo{
+        position:relative;
+        right:6.5rem;
+    }
+
+
+    /* CONTACT */
+
+    .contact-nav{
+        display: flex;
+        align-items: center;
+        position: relative;
+        left:3rem;
+    }
+
+    .nav-link{
+        display: flex;
+    }
+
+    .span3{
+        padding-left:3.2rem;
+    }
+}
