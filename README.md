@@ -18,7 +18,7 @@ I am a web developer with a passion for creating amazing websites with greater u
 
 Explore my detailed resume to get insights into my educational background, work experiences, and key accomplishments. The resume section provides a comprehensive overview of my professional profile.
 
-- **Resume PDF:** https://drive.google.com/file/d/1r7G_az12RgBGFYi2sR0vU_poALws3Cbs/view?usp=sharing
+- **Resume PDF:** https://drive.google.com/file/d/1F7LTpqAW0uugbBNrcDKc6rXSpPssAiLG/view?usp=drive_link
 
 ## Projects
 
@@ -50,6 +50,6 @@ Connect with me for professional inquiries, collaboration opportunities, or any 
 
 - **Email:** durgearyan9@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/aryan-durge-14893824b/
-- **Personal Website:** https://aryandurge.netlify.app/
+- **Personal Website:** 
 
 Thank you for visiting my resume website! Feel free to explore and learn more about my professional journey.
