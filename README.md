@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+# AryanDurge's Resume Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my resume website repository! This GitHub repository contains the source code for my personal resume website, where you can learn more about my professional background, skills, and experiences.
 
-## Available Scripts
+## Table of Contents
 
-In the project directory, you can run:
+- [About Me](#about-me)
+- [Resume](#resume)
+- [Projects](#projects)
+- [Skills](#skills)
+- [Contact](#contact)
 
-### `npm start`
+## About Me
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+I am a web developer with a passion for creating amazing websites with greater user-experience, Simple Design, Responsive. This website serves as a digital representation of my professional journey, showcasing my skills, achievements, and experiences.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Resume
 
-### `npm test`
+Explore my detailed resume to get insights into my educational background, work experiences, and key accomplishments. The resume section provides a comprehensive overview of my professional profile.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Resume PDF:** https://drive.google.com/file/d/1r7G_az12RgBGFYi2sR0vU_poALws3Cbs/view?usp=sharing
 
-### `npm run build`
+## Projects
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Discover some of the noteworthy projects I've worked on. Each project highlights my technical skills, problem-solving abilities, and creativity in approaching challenges.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Project 1: [Project Name]**
+  - [Brief project description]
+  - [Link to project repository or demo]
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Project 2: [Project Name]**
+  - [Brief project description]
+  - [Link to project repository or demo]
 
-### `npm run eject`
+- **Project 3: [Project Name]**
+  - [Brief project description]
+  - [Link to project repository or demo]
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Skills
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Gain insights into my skill set, which includes proficiency in various technologies and tools relevant to my field.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- FullStack Developer[MERN]
+- AWS CLOUD
+- ML-Enginner
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Contact
 
-## Learn More
+Connect with me for professional inquiries, collaboration opportunities, or any questions you may have.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- **Email:** durgearyan9@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/aryan-durge-14893824b/
+- **Personal Website:** https://aryandurge.netlify.app/
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you for visiting my resume website! Feel free to explore and learn more about my professional journey.
